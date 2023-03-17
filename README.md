@@ -1,4 +1,4 @@
-### Hi there 👋
+### Personal react homepage for The Lakes Dev. 
 
 <!--
 **thelakesdev/thelakesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
